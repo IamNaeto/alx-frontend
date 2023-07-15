@@ -30,9 +30,9 @@ a{
     color: var(--text-color);
 }
 
-.visually-hidden{
+/* .visually-hidden{
     display: none;
-}
+} */
 
 .card-category, .section-tagline{
     color: var(--color-primary);
