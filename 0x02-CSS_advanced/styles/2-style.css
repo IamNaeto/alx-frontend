@@ -1,0 +1,18 @@
+/* enable smooth/fluid scrolling in html element */
+html {
+    scroll-behavior: smooth;
+}
+/* body and links foreground color: #161616
+   specified class names foreground color: #D73953
+*/
+body, a{
+    color: #161616;
+}
+
+.visually-hidden{
+    display: none;
+}
+
+.card-category, .section-tagline{
+    color: #D73953;
+}
